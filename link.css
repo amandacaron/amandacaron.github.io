@@ -1,0 +1,44 @@
+p
+{font-size:30px;
+}
+
+h3
+{color:grey;
+}
+
+h1
+{font-weight:uppercase;
+}
+
+h1,h2,h3{
+  color:grey;
+  text-align:center;
+}
+
+.box p{
+  color:black;
+}
+
+div{
+  font-family: "trebuchet",Times,serif;
+  color:maroon
+}
+
+.box{
+  margin:20px 10% 20px 10%;
+  border:black 3px dashed;
+}
+
+.box span{
+  color:white;
+  text-align:center;
+}
+
+.marked div{
+  color:maroon;
+}
+
+
+div{
+  position:relative;
+}
